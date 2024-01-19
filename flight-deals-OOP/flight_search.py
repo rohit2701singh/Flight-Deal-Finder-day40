@@ -96,4 +96,3 @@ class FlightSearch:
 
             i += 1
         return content_data
-

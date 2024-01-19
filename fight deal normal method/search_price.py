@@ -65,9 +65,3 @@ if len(message_draft) != 0:
                          to='+91xxxxxx09'
                      )
     print(message.status)
-
-
-
-
-
-

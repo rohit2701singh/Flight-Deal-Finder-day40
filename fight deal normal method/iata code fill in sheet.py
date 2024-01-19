@@ -43,21 +43,3 @@ for city in city_list:
 
     iata_code_fill = requests.put(url=f"{sheety_put_endpoint}/{row}", json=iata_entry, headers=sheety_header)
     row += 1
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

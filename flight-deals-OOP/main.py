@@ -51,9 +51,3 @@ for destination_and_price in user_set_flight_price:
         message_draft.append(flight)
 # print(message_draft)
 message = NotificationManager(message_draft)
-
-
-
-
-
-
